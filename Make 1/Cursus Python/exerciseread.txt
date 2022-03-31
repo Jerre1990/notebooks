@@ -1,0 +1,12 @@
+1 nee
+2 nee
+3 nee
+4 ja
+5 nee
+6 nee
+7 nee
+8 ja
+9 nee
+10 nee
+11 nee
+12 ja

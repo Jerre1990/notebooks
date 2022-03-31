@@ -1,0 +1,3 @@
+Dit is de inhoud van een bestand.
+En het bevat meerdere regels.
+Dit is de laatste.
